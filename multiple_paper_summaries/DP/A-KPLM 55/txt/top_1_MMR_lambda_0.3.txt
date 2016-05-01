@@ -1,0 +1,14 @@
+Because XDG allows us to write grammars with completely free word order, XDG solving is an NP-complete problem TARGETANCHOR.
+For example, Johansson and Nugues (2006) and Yuret (2006) are seven ranks higher for Turkish than overall, while Riedel et al (2006) are five ranks lower.
+The parser used is MaltParser (TARGETANCHOR; Nivre et al, 2006), a freely available system that combines a deterministic parsing strategy with discriminative classifiers for predicting the next parser action.
+This is an interesting test domain because Chinese does not have clearly deifined parts-of-speech, which makes lexical smoothing one of the most natural approaches to achieving reasonable results TARGETANCHOR.
+Major Grammatical Predicates The ParseTalk model of DG TARGETANCHOR exploits inheritance as a major abstraction mechanism.
+Graph transformations for recovering non-projective structures TARGETANCHOR.
+Decoding TARGETANCHOR use the Chu-Liu-Edmonds (CLE) algorithm to solve the maximum spanning tree problem.
+For details on the CoNLL-X shared task and the measurements see TARGETANCHOR.
+Cdummy (2005), used relations between IG-based representations encoded within the Turkish Treebank TARGETANCHOR to automatically induce a CCG grammar lexicon for Turkish.
+Previous work on memory-based learning for deterministic parsing includes Veenstra and Daelemans (2000) and TARGETANCHOR.
+Yet, they can be parsed in o-n-three time TARGETANCHOR.
+The best performing system (TARGETANCHOR; note: this system is different to our baseline) achieves 79.2%
+The notion of edge degree was introduced by TARGETANCHOR in order to allow mildly non-projective structures while maintaining good parsing efficiency in data-driven dependency parsing.
+Even though McDonald et al (2006) and Nivre et al (2006) obtained

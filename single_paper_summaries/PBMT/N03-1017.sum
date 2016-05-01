@@ -1,0 +1,5 @@
+using giza++ model 4 alignments and pharaoh TARGETANCHOR, we achieved a bleu score of 0.3035. 
+second, phrase translation pairs are extracted from the word aligned corpus TARGETANCHOR. 
+for comparison purposes, three additional heuristically-induced alignments are generated for each system: (1) intersection of both directions (aligner(int)); (2) union of both directions (aligner(union)); and (3) the previously bestknown heuristic combination approach called growdiag-final TARGETANCHOR (aligner(gdf)). 
+TARGETANCHOR compare a number of different approaches to phrase-based statistical machine 255 length num uniq (mil) average # translations avg trans length 1 .88 
+TARGETANCHOR mention german 〈es gibt, there is〉 as an example of a good phrase pair which is not a syntactic phrase pair, and report that favoring syntactic phrases does not improve accuracy. 

@@ -1,0 +1,5 @@
+table 3: example compressions compression avglen rating baseline 9.70 1.93 bt-2-step 22.06 3.21 spade 19.09 3.10 humans 20.07 3.83 table 4: mean ratings for automatic compressionsnally, we added a simple baseline compression algorithm proposed by TARGETANCHOR which removed all prepositional phrases, clauses, toinfinitives, and gerunds. 
+previous research has addressed revision in single-document summaries TARGETANCHOR [Mani et al, 1999] and has suggested that revising summaries can make them more informative and correct errors. 
+the recent approach for editing extracted text spans TARGETANCHOR may also produce improvement for our algorithm. 
+as previously observed in the literature (Mani 1999; TARGETANCHOR), such components include a clause in the clause conjunction, relative clauses, and some elements within a clause (such as adverbs and prepositions). 
+to contrast, TARGETANCHOR concentrated on analyzing human-written summaries in order to determine how professionals construct summaries. 

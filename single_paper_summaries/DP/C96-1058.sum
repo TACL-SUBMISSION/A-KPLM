@@ -1,0 +1,5 @@
+yet, they can be parsed in o-n-three time TARGETANCHOR. 
+in english as well as in japanese, dependency analysis has been studied (e.g., (OTHERANCHOR; OTHERANCHOR; TARGETANCHOR)). 
+(bilexical models were also proposed by TARGETANCHOR). 
+if projectivity (no crossing branches) is desired, TARGETANCHOR dynamic programming algorithm (similar to cyk) for dependency parsing can be used instead. 
+a generative one (TARGETANCHOR; Dreyer et al, 2006), or train a machine learner to predict those. 

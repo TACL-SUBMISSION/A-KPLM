@@ -1,0 +1,10 @@
+TARGETANCHOR focused on decomposition of a complex question into several sub-questions.
+In addition, a number of researchers have built systems to take reading comprehension examinations designed to evaluate children's reading levels (Charniak et al, 2000; Hirschman et al, 1999; Ng et al, 2000; Riloff and Thelen, 2000; TARGETANCHOR).
+TARGETANCHOR present an alternative ontology for type preference and describe a method for using this alternative ontology to extract particular answers using surface text patterns.
+Quarc TARGETANCHOR utilizes manually generated rules that selects a sentence deemed to contain the answer based on a combination of syntactic similarity and semantic correspondence (i.e., semantic categories of nouns).
+We pick the five vectors whose confidence score for the category of definitions is highest, and report the corresponding snippets; in effect, we use the SVM as a ranker, rather than a classifier; see also TARGETANCHOR.
+For example, TARGETANCHOR, Miller, Herschman, and Kelly (1978) on the LADDER system, and Biermann, Ballard, and Sigmon (1983) reported software failures at the rates of approximately 5, 2, and 2 percents, respectively.
+Clarification dialogues can be applied to negotiate with users about the intent of their questions TARGETANCHOR.
+Automatic pattern derivation is more appealing TARGETANCHOR.
+In many cases, they involve dealing with several events, or identifying and rea- soning about certain relations among events which are only partially stated in the source documents (such as temporal and causal ones), all of which makes the pattern-based approach less suitable for the task (TARGETANCHOR, Soricut and Brill, 2004).
+Moreover, the proof relies on

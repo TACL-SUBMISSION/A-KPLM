@@ -1,0 +1,11 @@
+TARGETANCHOR focused on decomposition of a complex question into several sub-questions.
+Lexical synonymy (She esteemed him highly vs. She respected him greatly), syntactic variation (John paid the bill vs. The bill was paid by John), overlapping meanings (Anna turned at Elm vs. Anna rounded the corner at Elm), and other phenomena interact to produce a broad range of choices for most language generation tasks (Hirst, 2003; TARGETANCHOR; Kozlowski et al, 2003).
+We also compared our results across various interrogatives with those previously reported in TARGETANCHOR.
+Automatic pattern derivation is more appealing TARGETANCHOR.
+Further improvements may be possible by using a sentence splitter instead of windows of fixed length, anaphora resolution, clustering of similar snippets to avoid ranking them separately, and identifying additional n-gram attributes by bootstrapping TARGETANCHOR.
+Clarification dialogues can be applied to negotiate with users about the intent of their questions TARGETANCHOR.
+Current systems TARGETANCHOR already employ traditional information extraction and machine learning for extracting answers from relevant documents.
+For example, TARGETANCHOR, Miller, Herschman, and Kelly (1978) on the LADDER system, and Biermann, Ballard, and Sigmon (1983) reported software failures at the rates of approximately 5, 2, and 2 percents, respectively.
+The so-called "definition" or "other" questions at recent TREC evaluations TARGETANCHOR serve as good examples: "good answers" to these questions include interesting "nuggets" about a particular person, organization, entity, or event.
+TARGETANCHOR summarizes experience with the Transformational Question Answering System (TQA) during the first full year of operation, 1978.
+As such, all subsequent work (Charniak et al, 2000;

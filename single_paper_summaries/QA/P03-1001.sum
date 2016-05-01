@@ -1,0 +1,5 @@
+data TARGETANCHOR describe a dataset of concept-instance pairs extracted automatically from a very large corpus of newspaper articles. 
+Mann (2002) and TARGETANCHOR used part of speech patterns to extract a subset of hyponym relations involving proper nouns. 
+the precision of the extracted information can be improved significantly by using machine learning methods to filter out noise TARGETANCHOR. 
+definition questions following TARGETANCHOR, we select the 50 definition questions from the trec2003 (Voorhees 2003) question set. 
+at the same time, research efforts in data acquisition promise to deliver increasingly larger question-answer datasets (Girju et al, 2003; TARGETANCHOR). 

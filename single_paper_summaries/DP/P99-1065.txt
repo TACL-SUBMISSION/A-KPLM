@@ -1,0 +1,5 @@
+czech results for the czech data, we used the predefined training, development and testing split of the prague dependency treebank (Hajic et al, 2001), and the automatically generated pos tags supplied with the data, which we reduce to the pos tag set from TARGETANCHOR. 
+see appendix a of TARGETANCHOR for a description of how the head rules treat phrases involving coordination. 
+TARGETANCHOR explicitly added features to his parser to improve punctuation dependency parsing accuracy. 
+it is well known that dependency trees extracted from lexicalized phrase structure parsers (TARGETANCHOR; Charniak, 2000) typically are more accurate than those produced by pure dependency parsers (Yamada and matsumoto, 2003). 
+the usage of special knowledge bases to determine projections of categories (Xia and palmer, 2001) would have presupposed language-dependent knowledge, so we investigated two other options: flat rules TARGETANCHOR and binary rules. 

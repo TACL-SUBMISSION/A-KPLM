@@ -1,0 +1,8 @@
+TARGETANCHOR focused on decomposition of a complex question into several sub-questions.
+There are many previous work on paraphrase examples extraction or combining them with some applications such as information retrieval and question answering (Agichtein et al, 2001; Florence et al, 2003; TARGETANCHOR; Tomuro, 2003; Lin and Pantel, 2001;), information extraction (Shinyama et al, 2002; Shinyama and Sekine, 2003), machine translation (Hiroshi et al, 2003; Zhang and Yamamoto, 2003), multi-document (Barzilay et al, 2003).
+et al, 1999), (Charniak et al, 2000), (Riloff and Thelen, 2000), and TARGETANCHOR are 36.3%,
+The web has been employed for pattern acquisition TARGETANCHOR, document retrieval (Dumais et al, 2002), query expansion (Yang et al, 2003), structured information extraction, and answer validation (Magnini et al, 2002) .
+In addition, a number of researchers have built systems to take reading comprehension examinations designed to evaluate children's reading levels (Charniak et al, 2000; Hirschman et al, 1999; Ng et al, 2000; Riloff and Thelen, 2000; TARGETANCHOR).
+Many recent efforts have also focused on extracting semantic relations between entities, such as entailments (Szpektor et al 2004), is-a TARGETANCHOR, part-of (Girju et al 2006), and other relations.
+3.1 Feature Representation Our feature representation was designed to capture the information sources that prior work (Hirschman et al, 1999; Charniak et al, 2000; TARGETANCHOR) used in their computations or rules.
+There, a system that attempted a minimal understanding of both the question and the answer candidates, by translating them into their logical forms and using an inference engine, achieved a notably higher score

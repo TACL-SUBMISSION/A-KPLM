@@ -1,0 +1,5 @@
+two methods are used:  topic signature TARGETANCHOR: a topic signature is a family of related terms {topic, signature}, where topic is the target concept and signature is a vecto related s. 
+these n-gram key concepts are called topic signatures TARGETANCHOR. 
+to date, researchers have harvested, with varying success, several resources, including concept lists (Lin and pantel 2002), topic signatures TARGETANCHOR, facts (Etzioni et al 2005), and word similarity lists (Hindle 1990). 
+under this approach, topic representations like those introduced in TARGETANCHOR and (Harabagiu, 2004) are used to identify a set of text passages that are relevant to a user's domain of interest. 
+to deal with a lot of chinese documents which have free style of writing and flexible themes, a sentence-extraction summarization method created by detecting thematic areas is tried following such work as (Nomoto and matsumoto, 2001; Salton et al, 1996; Salton et al, 1997; Carbonell and goldstein, 1998; TARGETANCHOR). 

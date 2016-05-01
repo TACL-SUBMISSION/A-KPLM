@@ -1,0 +1,8 @@
+TARGETANCHOR focused on decomposition of a complex question into several sub-questions.
+et al, 1999), (Charniak et al, 2000), (Riloff and Thelen, 2000), and TARGETANCHOR are 36.3%,
+Current systems TARGETANCHOR already employ traditional information extraction and machine learning for extracting answers from relevant documents.
+Quarc TARGETANCHOR utilizes manually generated rules that selects a sentence deemed to contain the answer based on a combination of syntactic similarity and semantic correspondence (i.e., semantic categories of nouns).
+We pick the five vectors whose confidence score for the category of definitions is highest, and report the corresponding snippets; in effect, we use the SVM as a ranker, rather than a classifier; see also TARGETANCHOR.
+The so-called "definition" or "other" questions at recent TREC evaluations TARGETANCHOR serve as good examples: "good answers" to these questions include interesting "nuggets" about a particular person, organization, entity, or event.
+Lexical synonymy (She esteemed him highly vs. She respected him greatly), syntactic variation (John paid the bill vs. The bill was paid by John), overlapping meanings (Anna turned at Elm vs. Anna rounded the corner at Elm), and other phenomena interact to produce a broad range of choices for most language generation tasks (Hirst, 2003; TARGETANCHOR; Kozlowski et al, 2003).
+In many cases, they involve dealing with several events, or identifying and rea- soning about certain relations among events which are only partially stated in the source documents (such as temporal and causal ones), all of which makes the pattern-based approach less suitable for the task (TARGETANCHOR, Soricut and Brill,

@@ -1,0 +1,5 @@
+graph transformations for recovering non-projective structures TARGETANCHOR. 
+although the parser only derives projective graphs, the fact that graphs are labeled allows non-projective dependencies to be captured using the pseudoprojective approach of . 
+recent work by nivre and nilsson introduces a technique where the projectivization transformation is encoded in the non-terminals of constituents during parsing TARGETANCHOR. 
+in section 4.2 we use mbl, again with the same settings as TARGETANCHOR, and in section 4.2 we use svm with a polynomial kernel of degree 2. 
+for handling non-projective relations, TARGETANCHOR suggested applying a preprocessing step to a dependency parser, which consists in lifting non-projective arcs to their head repeatedly, until the tree becomes pseudo-projective. 

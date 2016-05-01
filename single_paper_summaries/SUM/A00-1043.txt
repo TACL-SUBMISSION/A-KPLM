@@ -1,0 +1,5 @@
+many algorithms exploit parallel corpora (TARGETANCHOR; Knight and marcu 2002; Riezler et al 2003; Nguyen et al 2004a; Turner and charniak 2005; Mcdonald 2006) to learn the correspondences between long and short sentences in a supervised manner, typically using a rich feature space induced from parse trees. 
+in contrast to TARGETANCHOR, the bulk of the research on sentence compression relies exclusively on corpus data for modelling the compression process without recourse to extensive knowledge sources (e.g., wordnet). 
+for example, TARGETANCHOR trained her system on a set of 500 sentences from the benton foundation (http://www.benton.org) and their reduced forms written by humans. 
+examples include text summarisation TARGETANCHOR, subtitle generation from spoken transcripts (Vandeghinste and pan 2004) and information retrieval (Olivers and dolan 1999). 
+our constraints are linguistically and semantically motivated in a similar fashion to the grammar checking component of TARGETANCHOR. 

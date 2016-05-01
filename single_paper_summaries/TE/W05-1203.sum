@@ -1,0 +1,5 @@
+table 1: experimental results lexical similarity siml(t,h) as defined in TARGETANCHOR. 
+in line with TARGETANCHOR, we define it as: s1(t,h) = summationdisplay (wt,wh)∈a simw(wt,wh)×idf(wh) summationdisplay wh∈wh idf(wh) (3) where idf(w) is the inverse document frequency of the word w. 
+first, as observed in TARGETANCHOR the lexical-based distance kernel kl shows an accuracy significantly higher than the random baseline, i.e. 
+a first class of methods defines measures of the distance or similarity between t and h either assuming the independence between words (TARGETANCHOR; Glickman et al, 2005) in a bag-of-word fashion or exploiting syntactic interpretations (Kouylekov and magnini, 2005). 
+then, we use this cross-pair similarity with more traditional intra-pair similarities (e.g., TARGETANCHOR) to define a novel kernel function. 

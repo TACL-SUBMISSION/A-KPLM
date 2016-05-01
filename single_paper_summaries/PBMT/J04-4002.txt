@@ -1,0 +1,5 @@
+unless otherwise noted, the following discussion is generally applicable to alignment template systems TARGETANCHOR as well. 
+phrase-based statistical machine translation (smt) systems analyze large quantities of bilingual parallel texts in order to learn translational alignments between pairs of words and phrases in two languages TARGETANCHOR. 
+among these models, the basic ones are a translation model pr(e|f) and a target language model pr(e), which can be complemented by reordering models (if the language pairs presents very long alignments in training), word penalty to avoid favoring short sentences, class-based target-language models, etc TARGETANCHOR. 
+nonetheless, attempts to incorporate richer linguistic features have generally met with little success TARGETANCHOR. 
+unfortunately, recent work has shown that applying statistical parsers to ungrammatical mt output is unreliable at best, with the parser often assigning unreasonable probabilities and incongruent structure (Yamada and knight, 2002; TARGETANCHOR). 

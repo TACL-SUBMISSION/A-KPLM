@@ -1,0 +1,5 @@
+in particular, the model in TARGETANCHOR failed to generate punctuation, a deficiency of the model. 
+head-lexicalized stochastic grammars have recently become increasingly popular (see TARGETANCHOR; Charniak 1997). 
+in the models described in TARGETANCHOR, there was a third question concerning punctuation: (3) does the string contain 0, 1, 2 or more than 2 commas? 
+table 1 shows the lp and lr scores obtained with our base line subtree set, and compares these scores with those of previous stochastic parsers tested on the wsj (respectively Charniak 1997, TARGETANCHOR, Ratnaparkhi 1999, and Charniak 2000). 
+statistical disambiguation such as (Collins and brooks, 1995) for pp-attachment or (TARGETANCHOR; Charniak, 2000) for generative parsing greatly improve disambiguation, but as they model by imitation instead of by understanding, complete soundness has to remain elusive. 

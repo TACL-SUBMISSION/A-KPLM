@@ -1,0 +1,14 @@
+In this year, CoNLL-X shared task TARGETANCHOR focuses on multilingual dependency parsing without taking the language-specific knowledge into account.
+Even though McDonald et al (2006) and Nivre et al (2006) obtained very similar overall scores, a more detailed look at their performance shows clear differences.
+Cdummy (2005), used relations between IG-based representations encoded within the Turkish Treebank TARGETANCHOR to automatically induce a CCG grammar lexicon for Turkish.
+der whether the improvements are large enough to justify further research in this direction; especially since TARGETANCHOR present an approximate algorithm which also makes more global decisions.
+2. N&N2005: The pseudo-projective parser of TARGETANCHOR.
+Based on results from previous optimization experiments TARGETANCHOR, we use the modified value difference metric (MVDM) to determine distances between instances, and distance-weighted class voting for determining the class of a new instance.
+Graph transformations for recovering non-projective structures TARGETANCHOR.
+To go language-independent, we did not tune any parameter settings in our model and exclude most of the language-dependent feature set, which provided by the CoNLL TARGETANCHOR.
+Abstract Recently proposed deterministic classifier-based parsers (TARGETANCHOR; Sagae and Lavie, 2005; Yamada and Matsumoto, 2003) offer attractive alternatives to generative statistical parsers.
+First, in supervised models, a head outward process is modeled (TARGETANCHOR; Collins, 1999).
+Because XDG allows us to write grammars with completely free word order, XDG solving is an NP-complete problem TARGETANCHOR.
+The best performing system (TARGETANCHOR; note: this system is different to our baseline) achieves 79.2%
+Yet, they can be parsed in o-n-three time TARGETANCHOR.
+Additionally, we have adopted

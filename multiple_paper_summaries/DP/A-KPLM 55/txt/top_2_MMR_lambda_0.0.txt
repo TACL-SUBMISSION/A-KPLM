@@ -1,0 +1,14 @@
+Our underlying model is a modi ed labelled version of TARGETANCHOR: s(x,y) = summationdisplay (i,j,l)∈y s(i,j,l) = summationdisplay (i,j,l)∈y w·f(i,j,l) 2Note that this is not described in the McDonald papers but implemented in his software.
+It involves several extensions that are not present in earlier encoding schemes where dependencies are also indicated through matching pairs of symbols (TARGETANCHOR; Yli-Jyr¨a, 2004a).
+Indirect support for this assumption can be gained from previous experiments with Swedish data, where almost the same accuracy (85% unlabeled attachment score) has been achieved with a treebank which is much smaller but which contains proper dependency annotation TARGETANCHOR.
+Yet, they can be parsed in o-n-three time TARGETANCHOR.
+2. N&N2005: The pseudo-projective parser of TARGETANCHOR.
+Because XDG allows us to write grammars with completely free word order, XDG solving is an NP-complete problem TARGETANCHOR.
+For example, Johansson and Nugues (2006) and Yuret (2006) are seven ranks higher for Turkish than overall, while TARGETANCHOR are five ranks lower.
+This is an interesting test domain because Chinese does not have clearly deifined parts-of-speech, which makes lexical smoothing one of the most natural approaches to achieving reasonable results TARGETANCHOR.
+Our bottom-up deterministic analyzer adopt Nivre's algorithm TARGETANCHOR.
+Graph transformations for recovering non-projective structures TARGETANCHOR.
+First, in supervised models, a head outward process is modeled (TARGETANCHOR; Collins, 1999).
+Nevertheless, extending our approach to directed features and contextual features, as in TARGETANCHOR, remains an important direction for future research.
+For details on the CoNLL-X shared task and the measurements see TARGETANCHOR.
+Abstract Recently proposed

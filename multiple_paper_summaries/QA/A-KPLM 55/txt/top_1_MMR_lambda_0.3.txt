@@ -1,0 +1,9 @@
+TARGETANCHOR focused on decomposition of a complex question into several sub-questions.
+In addition, a number of researchers have built systems to take reading comprehension examinations designed to evaluate children's reading levels (Charniak et al, 2000; Hirschman et al, 1999; Ng et al, 2000; Riloff and Thelen, 2000; TARGETANCHOR).
+Further improvements may be possible by using a sentence splitter instead of windows of fixed length, anaphora resolution, clustering of similar snippets to avoid ranking them separately, and identifying additional n-gram attributes by bootstrapping TARGETANCHOR.
+Lexical synonymy (She esteemed him highly vs. She respected him greatly), syntactic variation (John paid the bill vs. The bill was paid by John), overlapping meanings (Anna turned at Elm vs. Anna rounded the corner at Elm), and other phenomena interact to produce a broad range of choices for most language generation tasks (Hirst, 2003; TARGETANCHOR; Kozlowski et al, 2003).
+It may also partially reflect the intention of the current TREC QA Track that the question series introduced in TREC QA 2004 TARGETANCHOR simulate an interaction with a human, thus expected to arrive one at a time.
+Clarification dialogues can be applied to negotiate with users about the intent of their questions TARGETANCHOR.
+TARGETANCHOR summarizes experience with the Transformational Question Answering System (TQA) during the first full year of operation, 1978.
+TARGETANCHOR also use bootstrapping, and learn simple surface patterns for extracting binary relations from the Web.
+Concurrently, the LSA module evaluates the quality of the student contributions, and in the tutor-initiative mode, the dialog move generator

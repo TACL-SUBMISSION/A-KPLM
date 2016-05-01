@@ -1,0 +1,9 @@
+TARGETANCHOR focused on decomposition of a complex question into several sub-questions.
+et al, 1999), (Charniak et al, 2000), (Riloff and Thelen, 2000), and TARGETANCHOR are 36.3%,
+Current systems TARGETANCHOR already employ traditional information extraction and machine learning for extracting answers from relevant documents.
+Quarc TARGETANCHOR utilizes manually generated rules that selects a sentence deemed to contain the answer based on a combination of syntactic similarity and semantic correspondence (i.e., semantic categories of nouns).
+There, a system that attempted a minimal understanding of both the question and the answer candidates, by translating them into their logical forms and using an inference engine, achieved a notably higher score than any surface-based system (Moldavan et al, 2002; Harabagiu et al, 2003).
+The so-called "definition" or "other" questions at recent TREC evaluations TARGETANCHOR serve as good examples: "good answers" to these questions include interesting "nuggets" about a particular person, organization, entity, or event.
+TARGETANCHOR also use bootstrapping, and learn simple surface patterns for extracting binary relations from the Web.
+4 Evaluation To evaluate our learning approach, we trained AQUAREA$ on the same development set of stories and tested it on the same test set of stories as those used in all past work on the reading comprehension task (Hirschman et al, 1999; Charniak et al, 2000; Riloffand Thelen, 2000; TARGETANCHOR).
+QA is different than search engines in two aspects: (i) instead of a string of keyword search terms, the query is a natural language question, necessitating question parsing, (ii) instead of a list of

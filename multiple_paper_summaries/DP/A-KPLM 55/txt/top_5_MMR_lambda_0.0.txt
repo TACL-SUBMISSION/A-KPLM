@@ -1,0 +1,10 @@
+In this year, CoNLL-X shared task TARGETANCHOR focuses on multilingual dependency parsing without taking the language-specific knowledge into account.
+While we have presented significant improvements using additional constraints, one may when caching feature extraction during training TARGETANCHOR still takes approximately 10 minutes to train.
+By contrast, TARGETANCHOR do not even enforce the tree constraint, i.e. they allow cycles.
+% Figure 7: Percentages of heads correctly attached broadcast precision recall N subjects 95 % 89 % 244 objects 89 % 83 % 140 predicatives 96 % 86 % 57 literature precision recall N subjects 98 % 92 % 195 objects 94 % 91% 118 predicatives 97 % 93 % 72 newspaper precision recall N subjects 95 % 83 % 136 objects 94 % 88 % 103 predicatives 92 % 96 % 23 Figure 8: Rates for main functional dependencies is used in TARGETANCHOR except that every word has a head, i.e. the precision equals recall, reported as 79.2%.
+Major Grammatical Predicates The ParseTalk model of DG TARGETANCHOR exploits inheritance as a major abstraction mechanism.
+Yet, they can be parsed in o-n-three time TARGETANCHOR.
+2. N&N2005: The pseudo-projective parser of TARGETANCHOR.
+The two participant groups with the highest total score are McDonald et al (2006) and TARGETANCHOR.
+Based on results from previous optimization experiments TARGETANCHOR, we use the modified value difference metric (MVDM) to determine distances between instances, and distance-weighted class voting for determining the class of a new instance.
+For example, Johansson and Nugues (2006) and Yuret (2006) are seven ranks

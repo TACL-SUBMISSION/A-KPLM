@@ -1,0 +1,5 @@
+the experiments reported here were carried out using data from the workshop on building and using parallel texts held at hlt-naacl 2003 TARGETANCHOR. 
+TARGETANCHOR described a shared task where the goal was to achieve the best aer. 
+for parameter tuning, we used the 17 sentence trial set from the romanian-english corpus in the 2003 naacl task TARGETANCHOR. 
+the evaluation is done using the performance measures described in TARGETANCHOR: precision, recall and f-score on the probable and sure alignments, as well as the alignment error rate (aer), which in our case is a weighted average of the recall on the sure alignments and the precision on the probable. 
+the french/english data were those used by TARGETANCHOR. 

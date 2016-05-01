@@ -1,0 +1,5 @@
+the tease algorithm TARGETANCHOR is an unsupervised method for acquiring entailment relations from the web for a given input template. 
+many recent efforts have also focused on extracting semantic relations between entities, such as entailments TARGETANCHOR, is-a (Ravichandran and hovy 2002), part-of (Girju et al 2006), and other relations. 
+TARGETANCHOR measured yieldù, the number of correct rules learned for an input re1see the 3rd iwp workshop for a sample of recent works on paraphrasing (http://nlp.nagaokaut.ac.jp/iwp2005/). 
+TARGETANCHOR automatically identify anchors in web corpus data. 
+such transformations are typically denoted as paraphrases in the literature, where a wealth of methods for their automatic acquisition were proposed (Lin and pantel, 2001; Shinyama et al, 2002; Barzilay and lee, 2003; TARGETANCHOR). 
